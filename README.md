@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [pratikraskar45portfolio.netlify.app](pratikraskar45portfolio.netlify.app)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Java,Python**
 
 - 📫 How to reach me **raskarpratik44@gmail.com**
 
